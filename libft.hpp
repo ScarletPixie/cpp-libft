@@ -1,17 +1,17 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   libft_cpp.hpp                                      :+:      :+:    :+:   */
+/*   libft.hpp                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: paulhenr <paulhenr@student.42.rio>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/17 11:57:08 by paulhenr          #+#    #+#             */
-/*   Updated: 2024/07/17 13:03:21 by paulhenr         ###   ########.fr       */
+/*   Updated: 2024/07/17 13:44:02 by paulhenr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef LIBFT_CPP_HPP
-#define LIBFT_CPP_HPP
+#ifndef LIBFT_HPP
+#define LIBFT_HPP
 
 #include <iostream>
 #include <string>
